@@ -1,0 +1,2 @@
+per compilare il programma è necessario dire esplicitamente a g++ tutti i file *.cpp da compilare:
+g++ main.cpp functions.cpp -o NomeDesideratoDelProgramma
